@@ -2,7 +2,6 @@
 
 A creative, interactive 3D image gallery powered by **GSAP** animations, **SplitText**, and vanilla JavaScript. Inspired by inkwell aesthetics, this project demonstrates immersive user interactions with a circular rotating image layout, parallax motion, and animated typography.
 
-![Inkwell-Inspired Image Gallery Screenshot](screenshot.png) <!-- Replace with actual screenshot path -->
 
 ---
 
